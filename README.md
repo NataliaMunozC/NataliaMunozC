@@ -16,7 +16,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Finishing Full Stack Web Developmet bootcamp at Henry"," Looking for my a job in Tech world"],
+   currentOccupation: ["Finishing Full Stack Web Developmet bootcamp at Henry","Looking for a job in Tech world"],
 };
 ```
 
