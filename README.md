@@ -8,7 +8,7 @@
 ## I am a programmer 
 
 <h2 align="center">About me</h2>
-
+```golang
 const aboutMe = {
    pronouns: "She" | "her",
    code: [Javascript, Typescript, HTML, CSS],
@@ -26,7 +26,7 @@ const aboutMe = {
    },
    currentOccupation: [currently dtudying at Henry´s  Full Stack Developer bootcamp, open for job opportunities"],
 };
-
+```
 
 <h2 align="center">You can reach me at </h2>
 
