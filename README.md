@@ -1,12 +1,13 @@
 ### Hi there 👋 I´m Natalia Muñoz, a Full-stack developer 
 
-<!--
-**NataliaMunozC/NataliaMunozC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+# I am Natalia,  
+## I am a programmer
 
-Here are some ideas to get you started:
 
-
-```javascript
 const aboutMe = {
    pronouns: "She" | "her",
    code: [Javascript, Typescript, HTML, CSS],
