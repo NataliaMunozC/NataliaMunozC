@@ -1,5 +1,5 @@
 
-<img src="https://github.com/NataliaMunozC/NataliaMunozC/blob/main/ballons.png" width="500px"/>
+<img src="https://github.com/NataliaMunozC/NataliaMunozC/blob/main/ballons.png" width="1000px"/>
 
 
 
