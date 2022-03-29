@@ -23,7 +23,7 @@ const aboutMe = {
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
-- 📫 How to reach me **natz0403a@gmail.com**
+- 📫 How to reach me **natz0403@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
