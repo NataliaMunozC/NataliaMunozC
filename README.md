@@ -6,7 +6,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
@@ -17,7 +17,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Finishing Full Stack Web Developmet bootcamp at Henry","Looking for a job in Tech world"],
+   currentOccupation: ["Working as a Front end developer at Tropykus"],
 };
 ```
 
