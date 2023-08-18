@@ -9,19 +9,19 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Vue"],
-         css: ["Bootstrap", "Vuetify"]
+         js: ["Vue","React", "Redux"],
+         css: ["Bootstrap", "Vuetify", "Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Working as a Front end developer at Tropykus"],
+   currentOccupation: ["Working as a Front end developer at Tru"],
 };
 ```
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
+- 💬 Ask me about **JavaScript, Vue, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
 - 📫 How to reach me **natz0403@gmail.com**
 
